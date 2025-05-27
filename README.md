@@ -9,7 +9,7 @@
   <li>Riwayat Jurnal (tampilkan di dashboard user) (GET api/history)</li>
   <li>Analisis Sentimen (tampilkan hasil + mood)</li>
   <li>Profil & Statistik</li>
-<ol>
+</ol>
 
 ## Fitur Backend (Django REST Framework)
 <ol>
