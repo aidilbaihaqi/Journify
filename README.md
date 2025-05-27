@@ -21,9 +21,9 @@
 
 ## Cara Frontend dan Backend berkomunikasi
 ```bash
-  [Flutter App]
-    ↓ POST /api/journals/
-  [ Django Backend ]
-    → Simpan jurnal → Analisis Sentimen → Return { "mood": "Bahagia" }
+[Flutter App]
+  ↓ POST /api/journals/
+[ Django Backend ]
+  → Simpan jurnal → Analisis Sentimen → Return { "mood": "Bahagia" }
 ```
 
