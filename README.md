@@ -27,3 +27,10 @@
   → Simpan jurnal → Analisis Sentimen → Return { "mood": "Bahagia" }
 ```
 
+## Skema Authentication
+```bash
+[Flutter App]
+  ↓ POST /api/auth/
+[ Firebase ]
+  → Simpan log & token → next activity...
+```
